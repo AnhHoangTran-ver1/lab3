@@ -1,3 +1,6 @@
+#'
+#' dijkstra
+#' 
 #' @param graph A data frame with 3 varibles.
 #' @param init_node A numeric value.
 #'

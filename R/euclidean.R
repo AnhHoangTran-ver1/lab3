@@ -1,6 +1,12 @@
-
+#'
+#' euclidean
+#'
 #' @param a A numeric value.
 #' @param b A numeric value.
+#' 
+#' @description The best experience with the lab 3 
+#'
+#' 
 #'
 #' @return The greatest common divisor of a and b.
 #'

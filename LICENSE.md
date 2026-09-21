@@ -1,4 +1,4 @@
-use# MIT License
+# MIT License
 
 Copyright (c) 2026 lab3 authors
 
