@@ -1,11 +1,17 @@
 Package: lab3
-Title: What the Package Does (One Line, Title Case)
+Title: The package implements Euclidean and Dijkstras algorithms
 Version: 0.0.0.9000
 Authors@R: 
     person("Anh", "Tran", , "anhtr209@student.liu.se", role = c("aut", "cre"))
     person("Tatevik", "Hakobyan", , "tatha821@student.liu.se", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Description: Euclidean script finds the greatest common divisor of two numbers. The Dijksra script calculates the shortest path from the given initial node to every other node in the graph.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 Config/roxygen2/version: 8.1.0
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Depends: 
+    R (>= 3.5)
+LazyData: true

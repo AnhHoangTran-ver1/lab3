@@ -16,6 +16,8 @@ The greatest common divisor of a and b.
 }
 \description{
 The best experience with the lab 3
+
+Euclidean algorithm
 }
 \references{
 \url{https://en.wikipedia.org/wiki/Euclidean_algorithm}

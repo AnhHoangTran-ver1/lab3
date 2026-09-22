@@ -12,7 +12,7 @@ dijkstra(graph, init_node)
 \item{init_node}{A numeric value.}
 }
 \value{
-The shortest path from inital node to every other in the graph.
+The shortest path from inital node to every other node in the graph.
 }
 \description{
 dijkstra

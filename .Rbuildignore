@@ -1,4 +1,8 @@
 ^LICENSE\.md$
 ^.*\.Rproj$
 ^\.Rproj\.user$
+<<<<<<< Updated upstream
 ^\.github$
+=======
+>>>>>>> Stashed changes
+^data-raw$
